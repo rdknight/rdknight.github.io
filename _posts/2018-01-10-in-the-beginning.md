@@ -4,7 +4,7 @@ title: "Robin Knight, RoadNarrows LLC, Launches Site"
 date: 2018-01-10
 ---
 
-## In the Beggining
+## In the Beginning
 In the beginning God created the **Null & Void**.
 Now the earth was classless and of equal value.
 So God moved over the **Void** and said "Let there be **Scarcity**"
