@@ -4,31 +4,31 @@ title: "Aintellicene Epoch"
 date: 2018-07-04
 ---
 
-# Aintellicene Epoch
-
 ## Anthropocene
 It has been proposed, although not officially adopted, that we now live in a
 new epoch - the Anthropocene.
-The Anthropocene is a combination of Ancient Greek loosely translated into
-"New Man", thus the New Man age.
+The word anthropocene is a combination of ancient Greek loosely translated into
+"New Man", thus the New Age of Man.
 
 I find the proposal somewhat arrogant, and again, Man-centric.
 
 There is no doubt that humans have had significant impact on the
 ecology, atmosphere, and, even geology of our planet. Indeed, we have entered
-into the 6th great mass extinction event as the result of human activity.
+the 6<sup>th</sup> great mass extinction event as the result of human activity.
 
 But for an epoch to be definitive, it must significantly differ from
 the adjacent epochs, **and** have significant duration.
 The Pleistocene (Ice Age), for example, lasted 2.5 million years
 
-The proposed beginning of the Anthropocene has been anywhere from the onset of
-agriculture 10kya to as recently as 1945, identified as the start of the
+The proposed beginning of the Anthropocene Epoch has been anywhere from the
+onset of agriculture 10kya to as recently as 1945,
+the year identified as the start of the
 Great Acceleration (to the Singularity?). The former is basically the 
 Holocene, while the later, being less the 80 years long,
-and can only be interpreted as a transitional event.
+can only be interpreted as transitional.
 
-So, is the Anthropocene Epoch, in reality, the Antrhopocene Event?
+So, perhaps the Anthropocene Epoch, in reality, should be relabeled the
+Antrhopocene Event.
 An event akin to the cataclysmic asteroid crushing the Cretaceous 66mya 
 and enabling the Paleogene.
 Or perhaps the event is better described by the Permian-Triassic
