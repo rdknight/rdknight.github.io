@@ -47,11 +47,11 @@ from the Latin "artificialis intelligentia" to make it more official.
 Pronounced a.in.tel.li.cene. The New Artificial Intelligence era.
 
 Two verions, depending on the moody weather:
-1. Triumphant Optimist
+1. _Triumphant Optimist_
 The Aintellicene is the age of AI non-human constructs living and
 fully integrated with AI enhanced humans.
 A new golden age of amazing possibilities.
-2. Joyfull Optimist
+2. _Sorryfull Optimist_
 Our AI legacy lives on but we do not.
 
-Of course, on bad days, **Necrocene** seams the better epoch.
+Of course, on bad days, **Necrocene** seams the better identifier.
