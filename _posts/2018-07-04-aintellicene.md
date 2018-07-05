@@ -30,11 +30,11 @@ being less the 80 years long, can only be interpreted as a transitional
 series of events.
 
 So, perhaps the Anthropocene Epoch, in reality, should be relabeled the
-Antrhopocene Event (AE) that defines the boundary between two epochs.
+Anthropocene Event (AE) that defines the boundary between two epochs.
 An event akin to the cataclysmic asteroid crushing the Cretaceous 66mya 
 and enabling the Paleogene.
 Or perhaps the AE is better described by the Permian-Triassic
-extinction 252mya, where perhaps the suffocating temperatures,
+extinction 252mya, where maybe the suffocating temperatures,
 high levels of carbon dioxide and sulfer gases, and low levels of oxygen,
 all colluded in the Great Dying.
 
@@ -50,7 +50,7 @@ Let's derive it from the Latin "artificialis intelligentia" to make it more
 official.
 Pronounced a.in.tel.li.cene. The New Artificial Intelligence era.
 
-Two verions I project, depending on the moody weather:
+Two verions I foresee, depending on the moody weather:
 1. _Triumphant Optimist_:
 The Aintellicene is the age of AI non-human constructs living and
 fully integrated with AI enhanced humans.
