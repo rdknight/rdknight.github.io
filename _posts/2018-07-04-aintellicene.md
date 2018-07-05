@@ -50,7 +50,7 @@ Let's derive it from the Latin "artificialis intelligentia" to make it more
 official.
 Pronounced a.in.tel.li.cene. The New Artificial Intelligence era.
 
-Two verions I foresee, depending on the moody weather:
+Two versions I foresee, depending on the moody weather:
 1. _Triumphant Optimist_:
 The Aintellicene is the age of AI non-human constructs living and
 fully integrated with AI enhanced humans.
