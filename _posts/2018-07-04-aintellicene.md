@@ -59,4 +59,4 @@ A new golden age of amazing possibilities.
 Our AI legacy lives on magnificiently, but we do not.
 
 ## Alternative Universe
-Of course, on my bad days, **Necrocene** seams the better moniker.
+Of course, on my bad days, **Necrocene** seems the better moniker.
