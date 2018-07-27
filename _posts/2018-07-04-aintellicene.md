@@ -10,7 +10,7 @@ new epoch - the Anthropocene.
 The word anthropocene is a combination of ancient Greek subwords,
 loosely translated into "New Man", thus the New Age of Man.
 
-I find the proposal somewhat arrogant, and again, Man-centric.
+I find the proposal somewhat arrogant and discontinuous.
 
 There is no doubt that humans have had significant impact on the
 ecology, atmosphere, and, even geology of our planet. Indeed, we are
