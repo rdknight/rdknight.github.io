@@ -22,7 +22,7 @@
       }
 
       function mobilenav() {
-        if( detectmobile() ) {
+        if( detectmobile() == false ) {
           var node = document.getElementById('mobile-nav');
           node.innerHTML('<a class="button" href="/blog">Blog</a>'
             + '<a class="button" href="/ruminates">Ruminate Nation</a>'
