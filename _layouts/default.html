@@ -21,11 +21,13 @@
         }
       }
 
-      if( detectmobile() ) {
-        var node = document.getElementById('mobile-nav');
-        node.innerHTML('<a class="button" href="/blog">Blog</a>'
-          + '<a class="button" href="/ruminates">Ruminate Nation</a>'
-          + '<a class="button" href="/about">About</a>');
+      function mobilenav() {
+        if( detectmobile() ) {
+          var node = document.getElementById('mobile-nav');
+          node.innerHTML('<a class="button" href="/blog">Blog</a>'
+            + '<a class="button" href="/ruminates">Ruminate Nation</a>'
+            + '<a class="button" href="/about">About</a>');
+        }
       }
     </script>
     <!-- RDK -->
@@ -42,7 +44,7 @@
 {% seo %}
   </head>
 
-  <body>
+  <body onload="mobilenav()">
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
