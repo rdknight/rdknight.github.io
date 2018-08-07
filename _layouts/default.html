@@ -10,11 +10,11 @@
 
     <!-- RDK -->
     <style>
-      inner a.button.feather {
-        background-image: url("/assets/images/feather-button.png");
-      }
       aside a.button.feather {
         background-image: url("/assets/images/feather-button.png");
+      }
+      aside a.button.cow {
+        background-image: url("/assets/images/cow-button.png");
       }
     </style>
     <!-- RDK -->
@@ -35,7 +35,7 @@
       function mobilenav() {
         if( detectmobile() ) {
           var node = document.getElementById('mobile-nav');
-          node.innerHTML = '<a class="button feather" href="/blog">Blog</a>'
+          node.innerHTML = '<a class="button" href="/blog">Blog</a>'
             + '&nbsp;'
             + '<a class="button" href="/ruminates">Ruminate Nation</a>'
             + '&nbsp;'
@@ -85,7 +85,7 @@
         <aside id="sidebar">
           <!-- RDK -->
           <a class="button feather" href="/blog">Blog</a>
-          <a class="button" href="/ruminates">Ruminate Nation</a>
+          <a class="button cow" href="/ruminates">Ruminate Nation</a>
           <a class="button" href="/about">About</a>
           <!-- RDK -->
           {% if site.show_downloads %}
