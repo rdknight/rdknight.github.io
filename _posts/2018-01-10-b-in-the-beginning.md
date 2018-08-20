@@ -23,3 +23,4 @@ Thus at the end of the beginning, **Order** solidified. All was good.
 ## Commandment 0
 The Haves shall not suffer the Have-Nots
 
+![God and Adam Smith](/assets/images/CreationOfAdam.png)
