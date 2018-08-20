@@ -1,7 +1,7 @@
 ## Trite Overused Street Names
 We in America suffer from unimaginative, but seemingly safe street names.
 Names that don't offend.
-Names that evoke familiarity no matter where you are, where you go.
+Names that evoke familiarity no matter where you are, wherever you go.
 A melting pot of homogeneous gray wordage.
 Street names such as _Main_, _State_, _Elm_, _Oak_, _Lincoln_, ad nauseum.
 
@@ -29,6 +29,8 @@ Drive on _Up_ to Joe's diner and make a left on _Back_.
 Go on _Back_ for 3 blocks. Acme is on the left.
 If you see the post office, you went to _Far_. Flip around.
 Really can't miss it. Simple as apple pie.
+
+![I Am Confused](/assets/images/wileyecoyote.png)
 
 
 
