@@ -4,6 +4,8 @@ title: "Aintellicene Epoch"
 date: 2018-07-04
 ---
 
+![Evolution in Overdrive](/assets/images/SelfDesignEvolution3.png)
+
 ## Anthropocene
 It has been proposed, although not officially adopted, that we now live in a
 new epoch - the Anthropocene.
@@ -60,5 +62,3 @@ Our AI legacy lives on magnificiently, but we do not.
 
 ## Alternative Universe
 Of course, on my bad days, **Necrocene** seems the better moniker.
-
-![Evolution in Overdrive](/assets/images/SelfDesignEvolution3.png)
