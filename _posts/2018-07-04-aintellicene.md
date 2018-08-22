@@ -60,3 +60,5 @@ Our AI legacy lives on magnificiently, but we do not.
 
 ## Alternative Universe
 Of course, on my bad days, **Necrocene** seems the better moniker.
+
+![Evolution in Overdrive](/assets/images/SelfDesignEvolution3.png)
