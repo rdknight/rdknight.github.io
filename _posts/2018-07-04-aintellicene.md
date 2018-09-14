@@ -33,7 +33,7 @@ series of events.
 
 So, perhaps the Anthropocene Epoch, in reality, should be relabeled the
 Anthropocene Marker (AM) that demarcates the boundary between two epochs.
-An marker akin to the thin band of rock laid down with a cataclysmic asteroid
+A marker akin to the thin band of rock laid down when a cataclysmic asteroid
 crushed the Cretaceous 66mya and enabled the Paleogene.
 Or perhaps the AM geomorphology is better described by the Permian-Triassic
 extinction 252mya, where possibly sweltering temperatures,
