@@ -32,17 +32,18 @@ being less the 80 years long, can only be interpreted as a transitional
 series of events.
 
 So, perhaps the Anthropocene Epoch, in reality, should be relabeled the
-Anthropocene Event (AE) that defines the boundary between two epochs.
-An event akin to the cataclysmic asteroid crushing the Cretaceous 66mya 
-and enabling the Paleogene.
-Or perhaps the AE is better described by the Permian-Triassic
-extinction 252mya, where maybe the suffocating temperatures,
-high levels of carbon dioxide and sulfer gases, and low levels of oxygen,
+Anthropocene Marker (AM) that demarcates the boundary between two epochs.
+An marker akin to the thin band of rock laid down with a cataclysmic asteroid
+crushed the Cretaceous 66mya and enabled the Paleogene.
+Or perhaps the AM geomorphology is better described by the Permian-Triassic
+extinction 252mya, where possibly sweltering temperatures,
+toxic levels of carbon dioxide and sulfer gases,
+and suffocating low levels of oxygen,
 all colluded in the Great Dying.
 
 ## Aintellicene
 So if the Anthropocene is indeed an event defining a boundary, rather than
-a span of geological time, what epoch could the AE presage?
+a span of geological time, what epoch could the AM presage?
 Ah yes, the science of extrapolating the unfathomable future from the
 overwhelming present and the lossy past. No error bars allowed.
 
