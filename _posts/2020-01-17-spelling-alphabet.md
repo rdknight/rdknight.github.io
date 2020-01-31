@@ -11,34 +11,34 @@ A recommended demilitarized replacement for the current NATO (military)
 spelling alphabet is listed in the following table. Let's all add clarity
 and understanding of all peoples to lessen hostilities.
 
-Character | NATO | DMZ | Phonetic | Explained
+**Character**&nbsp; | **NATO** | **DMZ** | **Phonetic** | **Explained**
 :-------: | :--- | :-- | :------- | :--------
-A         | Alfa | Aesop | **ee**-sop | a simply fabulist storyteller
-B         | Bravo | Bdelium | **del**-ee-uhm | not myrrh
-C         | Charlie | Cnidaria | nai-**dar**-ee-ah | anemones, corals, jellyfishes, oh my
-D         | Delta | Dnieper | **nee**-per | old man river found in Mother Russia
-E         | Echo | Euphemism | **yoo**-fa-miz-um | pleasantries spoken of the dearly departed and<br>urban outdoorsmen
-F         | Foxtrot | Fjord | fy-**awrd** | Bostonian's F-150
-G         | Gulf | Gnarly | **naar**-lee | negative pirates who don't say '_arrr_'
-H         | Hotel | Heir | ehr | to heir is privilege, to forgive is a tax deduction
-I         | India | Immediate | ee-**mee**-dee-at | as &epsilon; &#8680; 0, T<sub>now</sub> + &epsilon;
-J         | Juliett | Jalapeno | ha-la-**pay**-nyo | hola from Xalapa, my peppery amigos
-K         | Kilo | Knight | nite | I say '_Ni!_'
-L         | Lima | Llama | **ya**-ma | head monk of the Andes
-M         | Mike | Mnemonic | nuh-**maa**-nik | a memory device that helps us remember that<br>_every good boy does fine_
-N         | November | Nth | enth | a scratching ent with an aitch
-O         | Oscar | Ouch | ouch | Coyote, anvil, potential &#8680; kinetic &#8680; impact<br>energy conversion
-P         | Papa | Psycho | **sai**-kow | putting the thrill back into showering
-Q         | Quebec | Qatar | **kuh**-ter | 50,000 years of human habitation
+A         | Alfa | Aesop | **ee**-sop | A simply fabulist storyteller.
+B         | Bravo | Bdelium | **del**-ee-uhm | Not myrrh.
+C         | Charlie | Cnidaria | nai-**dar**-ee-ah | Anemones, corals, jellyfishes, oh my.
+D         | Delta | Dnieper | **nee**-per | Old man river found in Mother Russia.
+E         | Echo | Euphemism | **yoo**-fa-miz-um | Pleasantries spoken of the dearly departed<br>and urban outdoorsmen.
+F         | Foxtrot | Fjord | fy-**awrd** | Bostonian's F-150.
+G         | Gulf | Gnarly | **naar**-lee | Negative pirates who don't say '_arrr_'.
+H         | Hotel | Heir | ehr | To heir is privilege, to forgive is a tax deduction.
+I         | India | Immediate | ee-**mee**-dee-at | As &epsilon; &#8680; 0, T<sub>now</sub> + &epsilon;.
+J         | Juliett | Jalapeno | ha-la-**pay**-nyo | Hola from Xalapa, my peppery amigos.
+K         | Kilo | Knight | nite | I say '_Ni!_'.
+L         | Lima | Llama | **ya**-ma | Head monk of the Andes.
+M         | Mike | Mnemonic | nuh-**maa**-nik | A memory device that helps us remember that:<br>&nbsp;_every good boy does fine_.
+N         | November | Nth | enth | A scratching ent with an aitch.
+O         | Oscar | Ouch | ouch | Coyote, anvil, potential &#8680; kinetic &#8680; impact<br>energy conversion.
+P         | Papa | Psycho | **sai**-kow | Putting the thrill back into showering.
+Q         | Quebec | Qatar | **kuh**-ter | 50,000 years of human habitation.
 R         | Romeo | Regurgitate | ree-**gur**-jah-tate | Vomit! I regurgitate. Vomit!
-S         | Sierra | Syzygy | **siz**-i-jee | alignment of three celestrial objects or concepts<br>such as a sauerkraut-pastrami-rye perfection
-T         | Tango | Tsar | zaar | only half as strange as bizarre
-U         | Uniform | Udder | **a**-der | a complete disaster, but don't cry over squirt milk
-V         | Victor | Vacillate | **va**-sa-late | maybe there's a better '_V_' word, maybe not
-W         | Whiskey | Writer | **rai**-ter | better career opportunites than a wronger, maybe
-X         | X-Ray | Xylophone | **zai**-luh-fown | an old land-line telephone made of wood
-Y         | Yankee | Yttrium | **ih**-tree-uhm | chemical element 39
-Z         | Zulu | Zyzzyva | **ziz**-uh-vuh | S. American weevil who does crop evil
+S         | Sierra | Syzygy | **siz**-i-jee | Alignment of three celestrial objects or concepts<br>such as a sauerkraut-pastrami-rye perfection.
+T         | Tango | Tsar | zaar | Only half as strange as bizarre.
+U         | Uniform | Udder | **a**-der | A complete disaster, but don't cry over squirt milk.
+V         | Victor | Vacillate | **va**-sa-late | Maybe there's a better '_V_' word. Maybe not.
+W         | Whiskey | Writer | **rai**-ter | Better career opportunites than a wronger. Maybe.
+X         | X-Ray | Xylophone | **zai**-luh-fown | An old land-line telephone made of wood.
+Y         | Yankee | Yttrium | **ih**-tree-uhm | Chemical element 39.
+Z         | Zulu | Zyzzyva | **ziz**-uh-vuh | S. American weevil who does crop evil.
 
 ## Usage Example
 _Dude Asks_:<br>
