@@ -12,4 +12,5 @@ Hekateros
 A damn good robot.
 
 2010-2017 R.I.P
-![Hekateros](https://github.com/rdknight/rdknight.github.io/assets/images/hekateros/HekaterosBlackAndBlue.png)
+
+![Hekateros](/assets/images/hekateros/HekaterosBlackAndBlue.png)
