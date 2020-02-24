@@ -7,15 +7,14 @@ date: 2020-02-23
 ![Hekateros Logo 1][logo1]
 ![Hekateros Logo 2][logo2]
 
-<div style="text-align:center; border:3px solid black; border-radius:25px 25px 5px 5px; width:500px;">
+<div style="text-align:center; border:3px solid black; border-radius:50px 50px 5px 5px; width:250px; margin-left:125px; margin-right:125px;">
 <div style="display: inline-block; font-weight:bold;">
 <br>
-<p style="font-size:large;">Hekateros</p><br><br>
-2010-2017<br>
-R.I.P.<br><br><br>
-old god of the dance of quickly moving hands<br>
-and a damn good robot
-<br>
+<p style="font-size:large;">Hekateros</p><br>
+<p>2010-2017<br>
+R.I.P.</p><br>
+<p>old god of the dance of quickly moving hands
+and a damn good robot</p>
 </div>
 </div>
 <br>
