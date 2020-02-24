@@ -7,17 +7,20 @@ date: 2020-02-23
 ![Hekateros Logo 1][logo1]
 ![Hekateros Logo 2][logo2]
 
-## A RoadNarrows Robot
-<div style="text-align:center; border:3px solid black; width:50%;">
-<div style="display: inline-block;">
-<large><b>Hekateros</b></large><br><br>
-<b>2010-2017</b><br>
-<b>R.I.P.</b><br><br>
-<b>Old god of the dance of quickly moving hands</b><br>
-<b>And a damn good robot</b>
+<div style="text-align:center; border:3px solid black; border-radius:25px 25px 5px 5px; width:500px;">
+<div style="display: inline-block; font-weight:bold;">
+<br>
+<p style="font-size:large;">Hekateros</p><br><br>
+2010-2017<br>
+R.I.P.<br><br><br>
+old god of the dance of quickly moving hands<br>
+and a damn good robot
+<br>
 </div>
 </div>
 <br>
+
+## A RoadNarrows Robot
 
 [![Hekateros][hek-small]][hek-large]
 
