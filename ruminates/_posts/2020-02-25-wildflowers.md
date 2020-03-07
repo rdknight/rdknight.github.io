@@ -8,4 +8,4 @@ date: 2020-02-25
 
 My first piece using a Wacom tablet and gimp.
 
-[wildflowers]: /assets/images/myart/CaliforniaWildflowers.png
+[wildflowers]: /assets/images/myart/CaliforniaWildflowers.jpg
